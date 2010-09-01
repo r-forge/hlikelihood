@@ -1,0 +1,11 @@
+Package: h.likelihood
+Type: Package
+Title: Statistical Modeling and Inference via Hierarchical Likelihood
+Version: 2010.8.25
+Date: 2010-08-25
+Author: Xia Shen
+Maintainer: Xia Shen <xia.shen@lcb.uu.se>
+Description: The package provides a top interface of hierarchical likelihood (h-likelihood) based models. It covers the estimation of hierarchical generalized linear models (HGLMs), and ... 
+License: Unlimited
+LazyLoad: yes
+Depends: hglm, HGLMMM
