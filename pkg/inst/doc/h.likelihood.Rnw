@@ -1,0 +1,16 @@
+% $Id: h.likelihood.Rnw $
+
+%\VignetteIndexEntry{The h.likelihood Package}
+%\VignetteKeywords{h.likelihood}
+%\VignettePackage{h.likelihood}
+
+\documentclass{article}
+
+\usepackage{pdfpages}
+
+\begin{document}
+
+\includepdf[pages={1-10}, fitpaper=true]{hmanual.pdf}
+
+\end{document}
+
