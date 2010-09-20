@@ -152,3 +152,7 @@ start.disp.random = NULL, info = TRUE, debug = FALSE, contrasts = NULL) {
 	return(HGLM.val)
 }
 
+.onAttach <- function(...) {
+	cat("h.likelihood: Statistical Modeling and Inference via Hierarchical Likelihood\n")
+	cat('Version 2010.9.20 installed\n')
+}
